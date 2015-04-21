@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/my-contact-tab</path>
+    <page_callback>CRM_Mycontacttab_Page_MyContactTab</page_callback>
+    <title>MyContactTab</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
